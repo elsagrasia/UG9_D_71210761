@@ -1,0 +1,6 @@
+a = input("Masukan daftar belanja 1 :")
+b = input("Tambahan ke daftar belanja 1 :")
+c = input("Masukan ke daftar belanja 2 :")
+d = input("Tambahkan ke daftar belanja 2 :")
+print("Daftar belanja 1 adalah",a,",",b)
+print("Daftar belanja 2 adalah",c,",",d)
